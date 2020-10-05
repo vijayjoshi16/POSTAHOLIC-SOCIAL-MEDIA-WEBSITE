@@ -1,4 +1,4 @@
-<h1>POSTAHOLIC-The Social Media Website</h1>
+<h1>POSTAHOLIC-Addicted to posts?You've come to the right place!!</h1>
 <img src="https://raw.githubusercontent.com/vijayjoshi16/POSTAHOLIC-SOCIAL-MEDIA-WEBSITE/main/client/public/logo.png"/>
 <h2>This is a social media website deployed on Heroku, similar to Instagram, which currently has the features :</h2>
 <ul>
