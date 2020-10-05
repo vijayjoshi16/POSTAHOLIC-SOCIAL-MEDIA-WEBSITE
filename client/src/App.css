@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body{
+    background-color: rgb(71, 70, 70);
+}
+
+a{
+    padding-left: 15px;
+    color: white!important;
+}
+
+.brand-logo,h2{
+    font-family: 'Fredoka One', cursive;
+}
+
+h2,::placeholder{
+    color: black;
+}
+
+h3, h4, h5, h6, p{
+    color: white;
+}
+
+img{
+    border-radius: 10%;
+}
+
+.auth-card{
+    margin: 50px auto;
+    padding:25px;
+    text-align: center;
+    border-radius: 50px;
+    background-color: rgba(255, 255, 255, 0.315);
+}
+
+.home-card{
+    border-radius: 50px;
+    background-color: rgba(255, 255, 255, 0.315);
+    max-width: 800px;
+}
+
+.signInCard{
+    max-width: 500px;
+}
+
+.input-field input[type=text]:focus{
+    border-bottom: 1px solid #000 !important;
+    box-shadow: 0 1px 0 0 #000 !important;
+    color: black;
+}
+
+.input-field input[type=password]:focus{
+    border-bottom: 1px solid #000 !important;
+    box-shadow: 0 1px 0 0 #000 !important;
+}
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.item{
+    width: 30%;
+}
+
+.home-card{
+    margin: 30px auto;
+    max-width: 500px;
+    height: max-content;
+}
+
+#toast-container{
+    top:50px !important;
+    right: 25px !important;
+    left: auto !important;
+}
+
+.material-icons:hover{
+    cursor: pointer;
+    transform: scale(1.5);
+}
