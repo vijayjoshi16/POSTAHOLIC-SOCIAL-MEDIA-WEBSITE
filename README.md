@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/vijayjoshi16/POSTAHOLIC-SOCIAL-MEDIA-WEBSITE/main/client/public/logo.png"/>
 <h2>This is a social media website deployed on Heroku, similar to Instagram, which currently has the features :</h2>
 <ul>
-<li>SignUp(with JWT Authentication)</li>
+<li>SignUp</li>
 <li>SignIn and LogOut</li>
 <li>Create Post</li>
 <li>Explore posts of all users</li>
